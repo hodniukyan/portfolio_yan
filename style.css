@@ -24,7 +24,7 @@ body {
 /* CABEÇALHO */
 header {
   padding: 40px 4%;
-  background-color: #6c09ee46;
+  background-color: #7e231e;
   border-bottom: 3px solid rgba(255, 255, 255, 0.295);
 }
 
@@ -35,7 +35,7 @@ header > .interface {
 }
 
 header a {
-  color: #858585;
+  color: #111111;
   text-decoration: none;
   display: inline-block;
   transition: 0.2s;
@@ -59,20 +59,20 @@ header .btn-curriculo button {
   padding: 10px 40px;
   font-size: 18px;
   font-weight: 600;
-  background-color: #9747ff;
+  background-color: #da3028;
   border: 0;
   border-radius: 30px;
   cursor: pointer;
 }
 
 header .btn-curriculo button:hover {
-  box-shadow: 0px 0px 8px #9747ff;
+  box-shadow: 0px 0px 8px #da3028;
 }
 
 /* MENU MOBILE */
 
 .btn-abrir-menu i {
-  color: #9747ff;
+  color: #da3028;
   font-size: 48px;
 }
 
@@ -124,7 +124,7 @@ header .btn-curriculo button:hover {
 }
 
 .menu-mobile nav ul li a:hover {
-  background-color: #9747ff;
+  background-color: #da3028;
   color: black;
 }
 
@@ -133,7 +133,7 @@ header .btn-curriculo button:hover {
 }
 
 .menu-mobile .btn-fechar i {
-  color: #9747ff;
+  color: #da3028;
   font-size: 48px;
 }
 
@@ -153,7 +153,7 @@ section.topo-do-site .flex {
   line-height: 40px;
 }
 .topo-do-site .txt-topo-site h1 span {
-  color: #9747ff;
+  color: #da3028;
   font-size: 84px;
 }
 
@@ -197,7 +197,7 @@ section.topo-do-site .flex {
 }
 
 #sobre .txt-sobre h2 span {
-  color: #9747ff;
+  color: #da3028;
   display: block;
   font-size: 40px;
 }
@@ -227,7 +227,7 @@ section.topo-do-site .flex {
 }
 
 #skills h2 span {
-  color: #9747ff;
+  color: #da3028;
   font-size: 40px;
 }
 
@@ -239,8 +239,8 @@ section.topo-do-site .flex {
 
 .skill-card-2 {
   padding: 32px 32px;
-  border: #9747ff 2px solid;
-  box-shadow: 0px 0px 8px #9747ff;
+  border: #da3028 4px solid;
+  box-shadow: 0px 0px 8px #da3028;
   border-radius: 32px;
   color: #ffffff;
   display: flex;
@@ -283,7 +283,7 @@ section.topo-do-site .flex {
 }
 
 #portfolio h2 span {
-  color: #9747ff;
+  color: #da3028;
   font-size: 40px;
 }
 
@@ -295,7 +295,7 @@ section.topo-do-site .flex {
   transition: 5s;
   cursor: pointer;
   border-radius: 40px;
-  border: 3px solid #9747ff;
+  border: 3px solid #da3028;
   position: relative;
 }
 
@@ -309,7 +309,7 @@ section.topo-do-site .flex {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #9747ff8a;
+  background-color: rgba(218, 48, 40, 0.5);
   border-radius: 40px;
   display: flex;
   align-items: center;
@@ -335,7 +335,7 @@ section.topo-do-site .flex {
 }
 
 #contato h2 {
-  color: #9747ff;
+  color: #da3028;
   text-align: center;
   font-size: 40px;
 }
@@ -357,7 +357,7 @@ section.topo-do-site .flex {
   padding: 10px 40px;
   font-size: 18px;
   font-weight: 600;
-  background-color: #9747ff;
+  background-color: #da3028;
   border: 0;
   border-radius: 30px;
   cursor: pointer;
@@ -365,7 +365,7 @@ section.topo-do-site .flex {
 }
 
 #contato .card-contato {
-  background-color: #9747ff;
+  background-color: #da3028;
   padding: 24px 24px;
   border-radius: 256px;
 }
