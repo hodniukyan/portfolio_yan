@@ -240,7 +240,7 @@ section.topo-do-site .flex {
 .skill-card-2 {
   padding: 32px 32px;
   border: #da3028 4px solid;
-  box-shadow: 0px 0px 8px #da3028;
+  box-shadow: 2px 2px 16px #da3028;
   border-radius: 32px;
   color: #ffffff;
   display: flex;
