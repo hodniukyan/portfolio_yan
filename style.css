@@ -24,8 +24,7 @@ body {
 /* CABEÇALHO */
 header {
   padding: 40px 4%;
-  background-color: #7e231e;
-  border-bottom: 3px solid rgba(255, 255, 255, 0.295);
+  background-color: transparent;
 }
 
 header > .interface {
@@ -35,7 +34,7 @@ header > .interface {
 }
 
 header a {
-  color: #111111;
+  color: #ffffff;
   text-decoration: none;
   display: inline-block;
   transition: 0.2s;
