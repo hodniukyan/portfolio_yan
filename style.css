@@ -381,6 +381,19 @@ section.topo-do-site .flex {
   gap: 24px;
 }
 
+/* estado inicial */
+.reveal {
+  opacity: 0;
+  transform: translateY(80px);
+  transition: all 0.8s ease;
+}
+
+/* quando aparece */
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 @media screen and (max-width: 1440px) {
   /* CLASSES GERAIS */
   .flex {
